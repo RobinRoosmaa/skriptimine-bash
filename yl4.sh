@@ -1,7 +1,7 @@
 #!/bin/Bash
-#Failide kopeerimise interaktiivne skript.
+#Failide varundamise skript
 #Autor: Robin Roosmaa
-#Viimati muudetud: 23.04.2025
+#Viimati muudetud: 29.04.2025
 
 #Defineerib muutujad varundatava directori ja varunduspaiga ning varundab lisades aja ja kustutades kõik outputid.
 varundada=/var/log
